@@ -1,6 +1,8 @@
+IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+IMPORT_FILES_AND_FOLDERS_TYPE=7,2
 PROBLEMS_FILTERS_MIGRATE=true
 SHOW_LOCATION=true
 eclipse.preferences.version=1
-platformState=1513572222045
+platformState=1513570883200
 quickStart=false
 tipsAndTricks=true
